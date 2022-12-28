@@ -19,7 +19,7 @@ Sources / Crédits :
 - OpenStreetMap
 - Harmonisation, recherches, corrections, complétion, mise en forme : Energy Explorer & contributeurs
 
-Les différentes sources sont archivées dans l'historique des commits git.
+Les différentes sources sont archivées dans [l'historique des commits git](https://github.com/energyexplorer-datasets/fr-windturbines/commits/main/turbines.csv).
 
 ### Courbes de puissance
 
