@@ -1,4 +1,281 @@
-"latitude","longitude","commune","departement","region","presente","instruction_en_cours","instruit","autorise","refuse","abandonne","en_construction","construit","repower","recours","demoli","en_service","date_presentation","date_decision","date_depot","date_realisation","date_mise_en_service","date_repower","date_recours","date_demolition","modele","hauteur","puissance","id_parc","puissance_parc","nb_mats_parc","offshore","note","source"
-48.49698772,-4.737621,,,"Bretagne",,,,"true",,,,,,,,"false",,"2022-07-28",,,,,,,,120,3,"Parc éolien de PORSPODER",,,"false",,"APA 28 7 22"
-48.496209,-4.73426,,,"Bretagne",,,,"true",,,,,,,,"false",,"2022-07-28",,,,,,,,120,3,"Parc éolien de PORSPODER",,,"false",,"APA 28 7 22"
-48.494441,-4.73255,,,"Bretagne",,,,"true",,,,,,,,"false",,"2022-07-28",,,,,,,,120,3,"Parc éolien de PORSPODER",,,"false",,"APA 28 7 22"
+"latitude";"longitude";"commune";"departement";"region";"presente";"instruction_en_cours";"instruit";"autorise";"refuse";"abandonne";"en_construction";"construit";"repower";"recours";"demoli";"en_service";"date_presentation";"date_decision";"date_depot";"date_realisation";"date_mise_en_service";"date_repower";"date_recours";"date_demolition";"modele";"hauteur";"puissance";"id_parc";"puissance_parc";"nb_mats_parc";"offshore";"note"
+48.49698772;-4.737621;;;"Bretagne";;;;"true";;;;;;;;"false";;"2022-07-28";;;;;;;;120;3;"Parc éolien de PORSPODER";;;"false";
+48.496209;-4.73426;;;"Bretagne";;;;"true";;;;;;;;"false";;"2022-07-28";;;;;;;;120;3;"Parc éolien de PORSPODER";;;"false";
+48.494441;-4.73255;;;"Bretagne";;;;"true";;;;;;;;"false";;"2022-07-28";;;;;;;;120;3;"Parc éolien de PORSPODER";;;"false";
+49.439075;-0.539921;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;176;;"Courseulles sur mer(64 éoliennes sur 45,3km²)";;;"true";"Position obtenue par interpolation"
+49.437604;-0.527041;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;176;;"Courseulles sur mer(64 éoliennes sur 45,3km²)";;;"true";"Position obtenue par interpolation"
+49.43614;-0.514175;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;176;;"Courseulles sur mer(64 éoliennes sur 45,3km²)";;;"true";"Position obtenue par interpolation"
+49.434666;-0.501296;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;176;;"Courseulles sur mer(64 éoliennes sur 45,3km²)";;;"true";"Position obtenue par interpolation"
+49.433199;-0.488418;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;176;;"Courseulles sur mer(64 éoliennes sur 45,3km²)";;;"true";"Position obtenue par interpolation"
+49.431723;-0.475555;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;176;;"Courseulles sur mer(64 éoliennes sur 45,3km²)";;;"true";"Position obtenue par interpolation"
+49.430253;-0.462679;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;176;;"Courseulles sur mer(64 éoliennes sur 45,3km²)";;;"true";"Position obtenue par interpolation"
+49.428773;-0.449804;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;176;;"Courseulles sur mer(64 éoliennes sur 45,3km²)";;;"true";"Position obtenue par interpolation"
+49.427301;-0.436943;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;176;;"Courseulles sur mer(64 éoliennes sur 45,3km²)";;;"true";"Position obtenue par interpolation"
+49.42566;-0.422216;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;176;;"Courseulles sur mer(64 éoliennes sur 45,3km²)";;;"true";"Position obtenue par interpolation"
+49.447982;-0.545905;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;176;;"Courseulles sur mer(64 éoliennes sur 45,3km²)";;;"true";"Position obtenue par interpolation"
+49.446512;-0.533036;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;176;;"Courseulles sur mer(64 éoliennes sur 45,3km²)";;;"true";"Position obtenue par interpolation"
+49.445049;-0.520154;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;176;;"Courseulles sur mer(64 éoliennes sur 45,3km²)";;;"true";"Position obtenue par interpolation"
+49.443575;-0.507273;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;176;;"Courseulles sur mer(64 éoliennes sur 45,3km²)";;;"true";"Position obtenue par interpolation"
+49.44211;-0.494406;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;176;;"Courseulles sur mer(64 éoliennes sur 45,3km²)";;;"true";"Position obtenue par interpolation"
+49.440633;-0.481527;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;176;;"Courseulles sur mer(64 éoliennes sur 45,3km²)";;;"true";"Position obtenue par interpolation"
+49.439107;-0.468513;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;176;;"Courseulles sur mer(64 éoliennes sur 45,3km²)";;;"true";"Position obtenue par interpolation"
+49.437685;-0.455784;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;176;;"Courseulles sur mer(64 éoliennes sur 45,3km²)";;;"true";"Position obtenue par interpolation"
+49.436169;-0.442495;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;176;;"Courseulles sur mer(64 éoliennes sur 45,3km²)";;;"true";"Position obtenue par interpolation"
+49.434732;-0.430031;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;176;;"Courseulles sur mer(64 éoliennes sur 45,3km²)";;;"true";"Position obtenue par interpolation"
+49.458359;-0.56479;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;176;;"Courseulles sur mer(64 éoliennes sur 45,3km²)";;;"true";"Position obtenue par interpolation"
+49.45689;-0.551904;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;176;;"Courseulles sur mer(64 éoliennes sur 45,3km²)";;;"true";"Position obtenue par interpolation"
+49.455429;-0.539019;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;176;;"Courseulles sur mer(64 éoliennes sur 45,3km²)";;;"true";"Position obtenue par interpolation"
+49.453957;-0.526135;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;176;;"Courseulles sur mer(64 éoliennes sur 45,3km²)";;;"true";"Position obtenue par interpolation"
+49.452494;-0.513265;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;176;;"Courseulles sur mer(64 éoliennes sur 45,3km²)";;;"true";"Position obtenue par interpolation"
+49.450974;-0.500384;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;176;;"Courseulles sur mer(64 éoliennes sur 45,3km²)";;;"true";"Position obtenue par interpolation"
+49.449544;-0.4875;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;176;;"Courseulles sur mer(64 éoliennes sur 45,3km²)";;;"true";"Position obtenue par interpolation"
+49.448076;-0.474633;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;176;;"Courseulles sur mer(64 éoliennes sur 45,3km²)";;;"true";"Position obtenue par interpolation"
+49.446597;-0.461752;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;176;;"Courseulles sur mer(64 éoliennes sur 45,3km²)";;;"true";"Position obtenue par interpolation"
+49.445126;-0.448873;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;176;;"Courseulles sur mer(64 éoliennes sur 45,3km²)";;;"true";"Position obtenue par interpolation"
+49.443176;-0.431907;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;176;;"Courseulles sur mer(64 éoliennes sur 45,3km²)";;;"true";"Position obtenue par interpolation"
+49.467265;-0.570781;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;176;;"Courseulles sur mer(64 éoliennes sur 45,3km²)";;;"true";"Position obtenue par interpolation"
+49.465797;-0.557893;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;176;;"Courseulles sur mer(64 éoliennes sur 45,3km²)";;;"true";"Position obtenue par interpolation"
+49.463997;-0.545118;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;176;;"Courseulles sur mer(64 éoliennes sur 45,3km²)";;;"true";"Position obtenue par interpolation"
+49.462866;-0.532132;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;176;;"Courseulles sur mer(64 éoliennes sur 45,3km²)";;;"true";"Position obtenue par interpolation"
+49.461402;-0.519245;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;176;;"Courseulles sur mer(64 éoliennes sur 45,3km²)";;;"true";"Position obtenue par interpolation"
+49.455517;-0.467722;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;176;;"Courseulles sur mer(64 éoliennes sur 45,3km²)";;;"true";"Position obtenue par interpolation"
+49.454038;-0.454854;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;176;;"Courseulles sur mer(64 éoliennes sur 45,3km²)";;;"true";"Position obtenue par interpolation"
+49.452557;-0.441973;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;176;;"Courseulles sur mer(64 éoliennes sur 45,3km²)";;;"true";"Position obtenue par interpolation"
+49.476171;-0.576774;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;176;;"Courseulles sur mer(64 éoliennes sur 45,3km²)";;;"true";"Position obtenue par interpolation"
+49.474704;-0.563897;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;176;;"Courseulles sur mer(64 éoliennes sur 45,3km²)";;;"true";"Position obtenue par interpolation"
+49.473244;-0.551006;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;176;;"Courseulles sur mer(64 éoliennes sur 45,3km²)";;;"true";"Position obtenue par interpolation"
+49.471774;-0.538117;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;176;;"Courseulles sur mer(64 éoliennes sur 45,3km²)";;;"true";"Position obtenue par interpolation"
+49.470311;-0.525242;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;176;;"Courseulles sur mer(64 éoliennes sur 45,3km²)";;;"true";"Position obtenue par interpolation"
+49.468838;-0.512354;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;176;;"Courseulles sur mer(64 éoliennes sur 45,3km²)";;;"true";"Position obtenue par interpolation"
+49.467373;-0.499467;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;176;;"Courseulles sur mer(64 éoliennes sur 45,3km²)";;;"true";"Position obtenue par interpolation"
+49.464385;-0.473366;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;176;;"Courseulles sur mer(64 éoliennes sur 45,3km²)";;;"true";"Position obtenue par interpolation"
+49.462872;-0.460152;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;176;;"Courseulles sur mer(64 éoliennes sur 45,3km²)";;;"true";"Position obtenue par interpolation"
+49.485077;-0.582783;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;176;;"Courseulles sur mer(64 éoliennes sur 45,3km²)";;;"true";"Position obtenue par interpolation"
+49.483619;-0.569889;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;176;;"Courseulles sur mer(64 éoliennes sur 45,3km²)";;;"true";"Position obtenue par interpolation"
+49.482151;-0.556996;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;176;;"Courseulles sur mer(64 éoliennes sur 45,3km²)";;;"true";"Position obtenue par interpolation"
+49.480691;-0.544118;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;176;;"Courseulles sur mer(64 éoliennes sur 45,3km²)";;;"true";"Position obtenue par interpolation"
+49.47922;-0.531226;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;176;;"Courseulles sur mer(64 éoliennes sur 45,3km²)";;;"true";"Position obtenue par interpolation"
+49.477926;-0.518286;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;176;;"Courseulles sur mer(64 éoliennes sur 45,3km²)";;;"true";"Position obtenue par interpolation"
+49.476226;-0.504911;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;176;;"Courseulles sur mer(64 éoliennes sur 45,3km²)";;;"true";"Position obtenue par interpolation"
+49.474807;-0.492572;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;176;;"Courseulles sur mer(64 éoliennes sur 45,3km²)";;;"true";"Position obtenue par interpolation"
+49.473339;-0.479684;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;176;;"Courseulles sur mer(64 éoliennes sur 45,3km²)";;;"true";"Position obtenue par interpolation"
+49.471861;-0.466797;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;176;;"Courseulles sur mer(64 éoliennes sur 45,3km²)";;;"true";"Position obtenue par interpolation"
+49.493982;-0.58878;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;176;;"Courseulles sur mer(64 éoliennes sur 45,3km²)";;;"true";"Position obtenue par interpolation"
+49.492525;-0.575883;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;176;;"Courseulles sur mer(64 éoliennes sur 45,3km²)";;;"true";"Position obtenue par interpolation"
+49.491058;-0.563002;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;176;;"Courseulles sur mer(64 éoliennes sur 45,3km²)";;;"true";"Position obtenue par interpolation"
+49.489598;-0.550107;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;176;;"Courseulles sur mer(64 éoliennes sur 45,3km²)";;;"true";"Position obtenue par interpolation"
+49.488127;-0.537213;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;176;;"Courseulles sur mer(64 éoliennes sur 45,3km²)";;;"true";"Position obtenue par interpolation"
+49.486665;-0.524334;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;176;;"Courseulles sur mer(64 éoliennes sur 45,3km²)";;;"true";"Position obtenue par interpolation"
+49.84268;0.18394999;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;175;;"Fécamp (71 éoliennes sur 60km²)";;;"true";"Position obtenue par interpolation"
+49.8452;0.19864999;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;175;;"Fécamp (71 éoliennes sur 60km²)";;;"true";"Position obtenue par interpolation"
+49.8477;0.21333334;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;175;;"Fécamp (71 éoliennes sur 60km²)";;;"true";"Position obtenue par interpolation"
+49.850216;0.22803333;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;175;;"Fécamp (71 éoliennes sur 60km²)";;;"true";"Position obtenue par interpolation"
+49.85272;0.24273333;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;175;;"Fécamp (71 éoliennes sur 60km²)";;;"true";"Position obtenue par interpolation"
+49.855232;0.25743333;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;175;;"Fécamp (71 éoliennes sur 60km²)";;;"true";"Position obtenue par interpolation"
+49.849716;0.17288333;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;175;;"Fécamp (71 éoliennes sur 60km²)";;;"true";"Position obtenue par interpolation"
+49.852234;0.18756667;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;175;;"Fécamp (71 éoliennes sur 60km²)";;;"true";"Position obtenue par interpolation"
+49.85475;0.20225;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;175;;"Fécamp (71 éoliennes sur 60km²)";;;"true";"Position obtenue par interpolation"
+49.85725;0.21696666;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;175;;"Fécamp (71 éoliennes sur 60km²)";;;"true";"Position obtenue par interpolation"
+49.859768;0.23165001;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;175;;"Fécamp (71 éoliennes sur 60km²)";;;"true";"Position obtenue par interpolation"
+49.86228;0.24635;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;175;;"Fécamp (71 éoliennes sur 60km²)";;;"true";"Position obtenue par interpolation"
+49.864784;0.26105002;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;175;;"Fécamp (71 éoliennes sur 60km²)";;;"true";"Position obtenue par interpolation"
+49.859283;0.17650001;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;175;;"Fécamp (71 éoliennes sur 60km²)";;;"true";"Position obtenue par interpolation"
+49.861782;0.19118333;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;175;;"Fécamp (71 éoliennes sur 60km²)";;;"true";"Position obtenue par interpolation"
+49.8643;0.20588332;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;175;;"Fécamp (71 éoliennes sur 60km²)";;;"true";"Position obtenue par interpolation"
+49.866817;0.22058333;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;175;;"Fécamp (71 éoliennes sur 60km²)";;;"true";"Position obtenue par interpolation"
+49.869335;0.23528333;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;175;;"Fécamp (71 éoliennes sur 60km²)";;;"true";"Position obtenue par interpolation"
+49.871834;0.24996667;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;175;;"Fécamp (71 éoliennes sur 60km²)";;;"true";"Position obtenue par interpolation"
+49.874332;0.26466668;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;175;;"Fécamp (71 éoliennes sur 60km²)";;;"true";"Position obtenue par interpolation"
+49.86883;0.18011667;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;175;;"Fécamp (71 éoliennes sur 60km²)";;;"true";"Position obtenue par interpolation"
+49.87135;0.19481666;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;175;;"Fécamp (71 éoliennes sur 60km²)";;;"true";"Position obtenue par interpolation"
+49.873867;0.2095;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;175;;"Fécamp (71 éoliennes sur 60km²)";;;"true";"Position obtenue par interpolation"
+49.876385;0.2242;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;175;;"Fécamp (71 éoliennes sur 60km²)";;;"true";"Position obtenue par interpolation"
+49.878883;0.23889999;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;175;;"Fécamp (71 éoliennes sur 60km²)";;;"true";"Position obtenue par interpolation"
+49.881382;0.2536;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;175;;"Fécamp (71 éoliennes sur 60km²)";;;"true";"Position obtenue par interpolation"
+49.883884;0.2683;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;175;;"Fécamp (71 éoliennes sur 60km²)";;;"true";"Position obtenue par interpolation"
+49.878384;0.18373333;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;175;;"Fécamp (71 éoliennes sur 60km²)";;;"true";"Position obtenue par interpolation"
+49.8809;0.19843334;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;175;;"Fécamp (71 éoliennes sur 60km²)";;;"true";"Position obtenue par interpolation"
+49.883415;0.21313334;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;175;;"Fécamp (71 éoliennes sur 60km²)";;;"true";"Position obtenue par interpolation"
+49.886032;0.2285;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;175;;"Fécamp (71 éoliennes sur 60km²)";;;"true";"Position obtenue par interpolation"
+49.88843;0.24253334;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;175;;"Fécamp (71 éoliennes sur 60km²)";;;"true";"Position obtenue par interpolation"
+49.89095;0.25723332;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;175;;"Fécamp (71 éoliennes sur 60km²)";;;"true";"Position obtenue par interpolation"
+49.89345;0.27193335;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;175;;"Fécamp (71 éoliennes sur 60km²)";;;"true";"Position obtenue par interpolation"
+49.88795;0.18736666;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;175;;"Fécamp (71 éoliennes sur 60km²)";;;"true";"Position obtenue par interpolation"
+49.890465;0.20206666;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;175;;"Fécamp (71 éoliennes sur 60km²)";;;"true";"Position obtenue par interpolation"
+49.893684;0.21828334;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;175;;"Fécamp (71 éoliennes sur 60km²)";;;"true";"Position obtenue par interpolation"
+49.898;0.24615;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;175;;"Fécamp (71 éoliennes sur 60km²)";;;"true";"Position obtenue par interpolation"
+49.9005;0.26085;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;175;;"Fécamp (71 éoliennes sur 60km²)";;;"true";"Position obtenue par interpolation"
+49.903;0.27555;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;175;;"Fécamp (71 éoliennes sur 60km²)";;;"true";"Position obtenue par interpolation"
+49.8975;0.191;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;175;;"Fécamp (71 éoliennes sur 60km²)";;;"true";"Position obtenue par interpolation"
+49.900017;0.20568332;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;175;;"Fécamp (71 éoliennes sur 60km²)";;;"true";"Position obtenue par interpolation"
+49.902534;0.22038333;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;175;;"Fécamp (71 éoliennes sur 60km²)";;;"true";"Position obtenue par interpolation"
+49.905033;0.23508333;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;175;;"Fécamp (71 éoliennes sur 60km²)";;;"true";"Position obtenue par interpolation"
+49.91005;0.26446667;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;175;;"Fécamp (71 éoliennes sur 60km²)";;;"true";"Position obtenue par interpolation"
+49.91255;0.27918333;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;175;;"Fécamp (71 éoliennes sur 60km²)";;;"true";"Position obtenue par interpolation"
+49.90705;0.19461666;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;175;;"Fécamp (71 éoliennes sur 60km²)";;;"true";"Position obtenue par interpolation"
+49.909565;0.20931667;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;175;;"Fécamp (71 éoliennes sur 60km²)";;;"true";"Position obtenue par interpolation"
+49.912083;0.22399999;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;175;;"Fécamp (71 éoliennes sur 60km²)";;;"true";"Position obtenue par interpolation"
+49.9146;0.23871666;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;175;;"Fécamp (71 éoliennes sur 60km²)";;;"true";"Position obtenue par interpolation"
+49.919617;0.2681;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;175;;"Fécamp (71 éoliennes sur 60km²)";;;"true";"Position obtenue par interpolation"
+49.922115;0.28281668;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;175;;"Fécamp (71 éoliennes sur 60km²)";;;"true";"Position obtenue par interpolation"
+49.919117;0.21293333;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;175;;"Fécamp (71 éoliennes sur 60km²)";;;"true";"Position obtenue par interpolation"
+49.921635;0.22763333;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;175;;"Fécamp (71 éoliennes sur 60km²)";;;"true";"Position obtenue par interpolation"
+49.92415;0.24235001;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;175;;"Fécamp (71 éoliennes sur 60km²)";;;"true";"Position obtenue par interpolation"
+49.92665;0.25703332;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;175;;"Fécamp (71 éoliennes sur 60km²)";;;"true";"Position obtenue par interpolation"
+49.929165;0.27173334;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;175;;"Fécamp (71 éoliennes sur 60km²)";;;"true";"Position obtenue par interpolation"
+49.931667;0.28643334;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;175;;"Fécamp (71 éoliennes sur 60km²)";;;"true";"Position obtenue par interpolation"
+49.928684;0.21656667;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;175;;"Fécamp (71 éoliennes sur 60km²)";;;"true";"Position obtenue par interpolation"
+49.9312;0.23126668;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;175;;"Fécamp (71 éoliennes sur 60km²)";;;"true";"Position obtenue par interpolation"
+49.9337;0.24596667;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;175;;"Fécamp (71 éoliennes sur 60km²)";;;"true";"Position obtenue par interpolation"
+49.93622;0.26066667;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;175;;"Fécamp (71 éoliennes sur 60km²)";;;"true";"Position obtenue par interpolation"
+49.938717;0.27536666;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;175;;"Fécamp (71 éoliennes sur 60km²)";;;"true";"Position obtenue par interpolation"
+49.941235;0.29006666;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;175;;"Fécamp (71 éoliennes sur 60km²)";;;"true";"Position obtenue par interpolation"
+49.94075;0.2349;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;175;;"Fécamp (71 éoliennes sur 60km²)";;;"true";"Position obtenue par interpolation"
+49.94325;0.2496;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;175;;"Fécamp (71 éoliennes sur 60km²)";;;"true";"Position obtenue par interpolation"
+49.945766;0.2643;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;175;;"Fécamp (71 éoliennes sur 60km²)";;;"true";"Position obtenue par interpolation"
+49.948284;0.27899998;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;175;;"Fécamp (71 éoliennes sur 60km²)";;;"true";"Position obtenue par interpolation"
+49.950783;0.2937;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;175;;"Fécamp (71 éoliennes sur 60km²)";;;"true";"Position obtenue par interpolation"
+49.95532;0.26793334;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;175;;"Fécamp (71 éoliennes sur 60km²)";;;"true";"Position obtenue par interpolation"
+49.957832;0.28263333;;;"Normandie";;;;"true";;;;"false";;;;"false";;;;;;;;;;175;;"Fécamp (71 éoliennes sur 60km²)";;;"true";"Position obtenue par interpolation"
+46.880072;-2.56958;;;"Pays de la Loire";;;;"true";;;;"false";;;;"false";;;;;;;;;;;8;"Iles d'Yeu et de Noirmoutier(62 éoliennes sur 88 km²)";;;"true";
+46.88762;-2.578511;;;"Pays de la Loire";;;;"true";;;;"false";;;;"false";;;;;;;;;;;8;"Iles d'Yeu et de Noirmoutier(62 éoliennes sur 88 km²)";;;"true";
+46.821559;-2.472339;;;"Pays de la Loire";;;;"true";;;;"false";;;;"false";;;;;;;;;;;8;"Iles d'Yeu et de Noirmoutier(62 éoliennes sur 88 km²)";;;"true";
+46.829114;-2.481247;;;"Pays de la Loire";;;;"true";;;;"false";;;;"false";;;;;;;;;;;8;"Iles d'Yeu et de Noirmoutier(62 éoliennes sur 88 km²)";;;"true";
+46.836668;-2.490157;;;"Pays de la Loire";;;;"true";;;;"false";;;;"false";;;;;;;;;;;8;"Iles d'Yeu et de Noirmoutier(62 éoliennes sur 88 km²)";;;"true";
+46.844213;-2.49907;;;"Pays de la Loire";;;;"true";;;;"false";;;;"false";;;;;;;;;;;8;"Iles d'Yeu et de Noirmoutier(62 éoliennes sur 88 km²)";;;"true";
+46.851765;-2.507985;;;"Pays de la Loire";;;;"true";;;;"false";;;;"false";;;;;;;;;;;8;"Iles d'Yeu et de Noirmoutier(62 éoliennes sur 88 km²)";;;"true";
+46.859318;-2.516902;;;"Pays de la Loire";;;;"true";;;;"false";;;;"false";;;;;;;;;;;8;"Iles d'Yeu et de Noirmoutier(62 éoliennes sur 88 km²)";;;"true";
+46.866869;-2.525823;;;"Pays de la Loire";;;;"true";;;;"false";;;;"false";;;;;;;;;;;8;"Iles d'Yeu et de Noirmoutier(62 éoliennes sur 88 km²)";;;"true";
+46.87442;-2.534758;;;"Pays de la Loire";;;;"true";;;;"false";;;;"false";;;;;;;;;;;8;"Iles d'Yeu et de Noirmoutier(62 éoliennes sur 88 km²)";;;"true";
+46.88197;-2.543683;;;"Pays de la Loire";;;;"true";;;;"false";;;;"false";;;;;;;;;;;8;"Iles d'Yeu et de Noirmoutier(62 éoliennes sur 88 km²)";;;"true";
+46.889519;-2.552611;;;"Pays de la Loire";;;;"true";;;;"false";;;;"false";;;;;;;;;;;8;"Iles d'Yeu et de Noirmoutier(62 éoliennes sur 88 km²)";;;"true";
+46.897059;-2.561541;;;"Pays de la Loire";;;;"true";;;;"false";;;;"false";;;;;;;;;;;8;"Iles d'Yeu et de Noirmoutier(62 éoliennes sur 88 km²)";;;"true";
+46.904607;-2.570474;;;"Pays de la Loire";;;;"true";;;;"false";;;;"false";;;;;;;;;;;8;"Iles d'Yeu et de Noirmoutier(62 éoliennes sur 88 km²)";;;"true";
+46.912154;-2.579409;;;"Pays de la Loire";;;;"true";;;;"false";;;;"false";;;;;;;;;;;8;"Iles d'Yeu et de Noirmoutier(62 éoliennes sur 88 km²)";;;"true";
+46.830982;-2.455372;;;"Pays de la Loire";;;;"true";;;;"false";;;;"false";;;;;;;;;;;8;"Iles d'Yeu et de Noirmoutier(62 éoliennes sur 88 km²)";;;"true";
+46.838449;-2.464279;;;"Pays de la Loire";;;;"true";;;;"false";;;;"false";;;;;;;;;;;8;"Iles d'Yeu et de Noirmoutier(62 éoliennes sur 88 km²)";;;"true";
+46.846094;-2.473188;;;"Pays de la Loire";;;;"true";;;;"false";;;;"false";;;;;;;;;;;8;"Iles d'Yeu et de Noirmoutier(62 éoliennes sur 88 km²)";;;"true";
+46.853649;-2.482099;;;"Pays de la Loire";;;;"true";;;;"false";;;;"false";;;;;;;;;;;8;"Iles d'Yeu et de Noirmoutier(62 éoliennes sur 88 km²)";;;"true";
+46.861203;-2.491014;;;"Pays de la Loire";;;;"true";;;;"false";;;;"false";;;;;;;;;;;8;"Iles d'Yeu et de Noirmoutier(62 éoliennes sur 88 km²)";;;"true";
+46.868748;-2.499931;;;"Pays de la Loire";;;;"true";;;;"false";;;;"false";;;;;;;;;;;8;"Iles d'Yeu et de Noirmoutier(62 éoliennes sur 88 km²)";;;"true";
+46.8763;-2.50885;;;"Pays de la Loire";;;;"true";;;;"false";;;;"false";;;;;;;;;;;8;"Iles d'Yeu et de Noirmoutier(62 éoliennes sur 88 km²)";;;"true";
+46.883853;-2.517785;;;"Pays de la Loire";;;;"true";;;;"false";;;;"false";;;;;;;;;;;8;"Iles d'Yeu et de Noirmoutier(62 éoliennes sur 88 km²)";;;"true";
+46.891404;-2.526709;;;"Pays de la Loire";;;;"true";;;;"false";;;;"false";;;;;;;;;;;8;"Iles d'Yeu et de Noirmoutier(62 éoliennes sur 88 km²)";;;"true";
+46.898955;-2.535636;;;"Pays de la Loire";;;;"true";;;;"false";;;;"false";;;;;;;;;;;8;"Iles d'Yeu et de Noirmoutier(62 éoliennes sur 88 km²)";;;"true";
+46.906505;-2.544565;;;"Pays de la Loire";;;;"true";;;;"false";;;;"false";;;;;;;;;;;8;"Iles d'Yeu et de Noirmoutier(62 éoliennes sur 88 km²)";;;"true";
+46.914045;-2.553497;;;"Pays de la Loire";;;;"true";;;;"false";;;;"false";;;;;;;;;;;8;"Iles d'Yeu et de Noirmoutier(62 éoliennes sur 88 km²)";;;"true";
+46.921593;-2.562431;;;"Pays de la Loire";;;;"true";;;;"false";;;;"false";;;;;;;;;;;8;"Iles d'Yeu et de Noirmoutier(62 éoliennes sur 88 km²)";;;"true";
+46.840403;-2.438385;;;"Pays de la Loire";;;;"true";;;;"false";;;;"false";;;;;;;;;;;8;"Iles d'Yeu et de Noirmoutier(62 éoliennes sur 88 km²)";;;"true";
+46.847961;-2.447304;;;"Pays de la Loire";;;;"true";;;;"false";;;;"false";;;;;;;;;;;8;"Iles d'Yeu et de Noirmoutier(62 éoliennes sur 88 km²)";;;"true";
+46.855518;-2.456212;;;"Pays de la Loire";;;;"true";;;;"false";;;;"false";;;;;;;;;;;8;"Iles d'Yeu et de Noirmoutier(62 éoliennes sur 88 km²)";;;"true";
+46.863074;-2.46511;;;"Pays de la Loire";;;;"true";;;;"false";;;;"false";;;;;;;;;;;8;"Iles d'Yeu et de Noirmoutier(62 éoliennes sur 88 km²)";;;"true";
+46.870629;-2.474037;;;"Pays de la Loire";;;;"true";;;;"false";;;;"false";;;;;;;;;;;8;"Iles d'Yeu et de Noirmoutier(62 éoliennes sur 88 km²)";;;"true";
+46.878184;-2.482979;;;"Pays de la Loire";;;;"true";;;;"false";;;;"false";;;;;;;;;;;8;"Iles d'Yeu et de Noirmoutier(62 éoliennes sur 88 km²)";;;"true";
+46.885729;-2.491871;;;"Pays de la Loire";;;;"true";;;;"false";;;;"false";;;;;;;;;;;8;"Iles d'Yeu et de Noirmoutier(62 éoliennes sur 88 km²)";;;"true";
+46.893283;-2.500792;;;"Pays de la Loire";;;;"true";;;;"false";;;;"false";;;;;;;;;;;8;"Iles d'Yeu et de Noirmoutier(62 éoliennes sur 88 km²)";;;"true";
+46.900835;-2.509729;;;"Pays de la Loire";;;;"true";;;;"false";;;;"false";;;;;;;;;;;8;"Iles d'Yeu et de Noirmoutier(62 éoliennes sur 88 km²)";;;"true";
+46.908388;-2.518917;;;"Pays de la Loire";;;;"true";;;;"false";;;;"false";;;;;;;;;;;8;"Iles d'Yeu et de Noirmoutier(62 éoliennes sur 88 km²)";;;"true";
+46.915939;-2.527583;;;"Pays de la Loire";;;;"true";;;;"false";;;;"false";;;;;;;;;;;8;"Iles d'Yeu et de Noirmoutier(62 éoliennes sur 88 km²)";;;"true";
+46.923489;-2.536514;;;"Pays de la Loire";;;;"true";;;;"false";;;;"false";;;;;;;;;;;8;"Iles d'Yeu et de Noirmoutier(62 éoliennes sur 88 km²)";;;"true";
+46.931039;-2.545447;;;"Pays de la Loire";;;;"true";;;;"false";;;;"false";;;;;;;;;;;8;"Iles d'Yeu et de Noirmoutier(62 éoliennes sur 88 km²)";;;"true";
+46.849831;-2.421405;;;"Pays de la Loire";;;;"true";;;;"false";;;;"false";;;;;;;;;;;8;"Iles d'Yeu et de Noirmoutier(62 éoliennes sur 88 km²)";;;"true";
+46.857381;-2.430324;;;"Pays de la Loire";;;;"true";;;;"false";;;;"false";;;;;;;;;;;8;"Iles d'Yeu et de Noirmoutier(62 éoliennes sur 88 km²)";;;"true";
+46.865461;-2.439226;;;"Pays de la Loire";;;;"true";;;;"false";;;;"false";;;;;;;;;;;8;"Iles d'Yeu et de Noirmoutier(62 éoliennes sur 88 km²)";;;"true";
+46.872496;-2.448141;;;"Pays de la Loire";;;;"true";;;;"false";;;;"false";;;;;;;;;;;8;"Iles d'Yeu et de Noirmoutier(62 éoliennes sur 88 km²)";;;"true";
+46.880053;-2.457054;;;"Pays de la Loire";;;;"true";;;;"false";;;;"false";;;;;;;;;;;8;"Iles d'Yeu et de Noirmoutier(62 éoliennes sur 88 km²)";;;"true";
+46.887609;-2.465969;;;"Pays de la Loire";;;;"true";;;;"false";;;;"false";;;;;;;;;;;8;"Iles d'Yeu et de Noirmoutier(62 éoliennes sur 88 km²)";;;"true";
+46.895164;-2.474887;;;"Pays de la Loire";;;;"true";;;;"false";;;;"false";;;;;;;;;;;8;"Iles d'Yeu et de Noirmoutier(62 éoliennes sur 88 km²)";;;"true";
+46.902719;-2.483807;;;"Pays de la Loire";;;;"true";;;;"false";;;;"false";;;;;;;;;;;8;"Iles d'Yeu et de Noirmoutier(62 éoliennes sur 88 km²)";;;"true";
+46.910264;-2.492742;;;"Pays de la Loire";;;;"true";;;;"false";;;;"false";;;;;;;;;;;8;"Iles d'Yeu et de Noirmoutier(62 éoliennes sur 88 km²)";;;"true";
+46.917818;-2.501667;;;"Pays de la Loire";;;;"true";;;;"false";;;;"false";;;;;;;;;;;8;"Iles d'Yeu et de Noirmoutier(62 éoliennes sur 88 km²)";;;"true";
+46.92537;-2.510595;;;"Pays de la Loire";;;;"true";;;;"false";;;;"false";;;;;;;;;;;8;"Iles d'Yeu et de Noirmoutier(62 éoliennes sur 88 km²)";;;"true";
+46.932922;-2.519525;;;"Pays de la Loire";;;;"true";;;;"false";;;;"false";;;;;;;;;;;8;"Iles d'Yeu et de Noirmoutier(62 éoliennes sur 88 km²)";;;"true";
+46.940473;-2.528458;;;"Pays de la Loire";;;;"true";;;;"false";;;;"false";;;;;;;;;;;8;"Iles d'Yeu et de Noirmoutier(62 éoliennes sur 88 km²)";;;"true";
+46.8122787475586;-2.48897099494934;;;"Pays de la Loire";;;;"true";;;;"false";;;;"false";;;;;;;;;;;8;"Iles d'Yeu et de Noirmoutier(62 éoliennes sur 88 km²)";;;"true";
+46.819709777832;-2.49812269210815;;;"Pays de la Loire";;;;"true";;;;"false";;;;"false";;;;;;;;;;;8;"Iles d'Yeu et de Noirmoutier(62 éoliennes sur 88 km²)";;;"true";
+46.8271522521973;-2.50693106651306;;;"Pays de la Loire";;;;"true";;;;"false";;;;"false";;;;;;;;;;;8;"Iles d'Yeu et de Noirmoutier(62 éoliennes sur 88 km²)";;;"true";
+46.8348045349121;-2.51596474647522;;;"Pays de la Loire";;;;"true";;;;"false";;;;"false";;;;;;;;;;;8;"Iles d'Yeu et de Noirmoutier(62 éoliennes sur 88 km²)";;;"true";
+46.8461303710938;-2.52938652038574;;;"Pays de la Loire";;;;"true";;;;"false";;;;"false";;;;;;;;;;;8;"Iles d'Yeu et de Noirmoutier(62 éoliennes sur 88 km²)";;;"true";
+46.8574943542481;-2.54269027709961;;;"Pays de la Loire";;;;"true";;;;"false";;;;"false";;;;;;;;;;;8;"Iles d'Yeu et de Noirmoutier(62 éoliennes sur 88 km²)";;;"true";
+46.8650321960449;-2.55169177055359;;;"Pays de la Loire";;;;"true";;;;"false";;;;"false";;;;;;;;;;;8;"Iles d'Yeu et de Noirmoutier(62 éoliennes sur 88 km²)";;;"true";
+46.8725471496582;-2.56065034866333;;;"Pays de la Loire";;;;"true";;;;"false";;;;"false";;;;;;;;;;;8;"Iles d'Yeu et de Noirmoutier(62 éoliennes sur 88 km²)";;;"true";
+47.121;-2.5524;;;"Pays de la Loire";;;;"true";;;"true";;;;;"false";;;;;;;;;;175;;"Saint-Nazaire (80 éoliennes  sur 78km²)";"480 MW";;"true";
+47.147366;-2.6987834;;;"Pays de la Loire";;;;"true";;;"true";;;;;"false";;;;;;;;;;175;;"Saint-Nazaire (80 éoliennes  sur 78km²)";"480 MW";;"true";
+47.13865;-2.65045;;;"Pays de la Loire";;;;"true";;;"true";;;;;"false";;;;;;;;;;175;;"Saint-Nazaire (80 éoliennes  sur 78km²)";"480 MW";;"true";
+47.136433;-2.6381333;;;"Pays de la Loire";;;;"true";;;"true";;;;;"false";;;;;;;;;;175;;"Saint-Nazaire (80 éoliennes  sur 78km²)";"480 MW";;"true";
+47.12305;-2.5641832;;;"Pays de la Loire";;;;"true";;;"true";;;;;"false";;;;;;;;;;175;;"Saint-Nazaire (80 éoliennes  sur 78km²)";"480 MW";;"true";
+47.1275;-2.58875;;;"Pays de la Loire";;;;"true";;;"true";;;;;"false";;;;;;;;;;175;;"Saint-Nazaire (80 éoliennes  sur 78km²)";"480 MW";;"true";
+47.145218;-2.6869001;;;"Pays de la Loire";;;;"true";;;"true";;;;;"false";;;;;;;;;;175;;"Saint-Nazaire (80 éoliennes  sur 78km²)";"480 MW";;"true";
+47.140865;-2.6626835;;;"Pays de la Loire";;;;"true";;;"true";;;;;"false";;;;;;;;;;175;;"Saint-Nazaire (80 éoliennes  sur 78km²)";"480 MW";;"true";
+47.1342;-2.6257334;;;"Pays de la Loire";;;;"true";;;"true";;;;;"false";;;;;;;;;;175;;"Saint-Nazaire (80 éoliennes  sur 78km²)";"480 MW";;"true";
+47.1253;-2.5765667;;;"Pays de la Loire";;;;"true";;;"true";;;;;"false";;;;;;;;;;175;;"Saint-Nazaire (80 éoliennes  sur 78km²)";"480 MW";;"true";
+47.1297;-2.6009;;;"Pays de la Loire";;;;"true";;;"true";;;;;"false";;;;;;;;;;175;;"Saint-Nazaire (80 éoliennes  sur 78km²)";"480 MW";;"true";
+47.14305;-2.6748333;;;"Pays de la Loire";;;;"true";;;"true";;;;;"false";;;;;;;;;;175;;"Saint-Nazaire (80 éoliennes  sur 78km²)";"480 MW";;"true";
+47.131935;-2.61325;;;"Pays de la Loire";;;;"true";;;"true";;;;;"false";;;;;;;;;;175;;"Saint-Nazaire (80 éoliennes  sur 78km²)";"480 MW";;"true";
+47.1328;-2.5670333;;;"Pays de la Loire";;;;"true";;;"true";;;;;"false";;;;;;;;;;175;;"Saint-Nazaire (80 éoliennes  sur 78km²)";"480 MW";;"true";
+47.14472;-2.6276333;;;"Pays de la Loire";;;;"true";;;"true";;;;;"false";;;;;;;;;;175;;"Saint-Nazaire (80 éoliennes  sur 78km²)";"480 MW";;"true";
+47.1417;-2.6141834;;;"Pays de la Loire";;;;"true";;;"true";;;;;"false";;;;;;;;;;175;;"Saint-Nazaire (80 éoliennes  sur 78km²)";"480 MW";;"true";
+47.15032;-2.6551833;;;"Pays de la Loire";;;;"true";;;"true";;;;;"false";;;;;;;;;;175;;"Saint-Nazaire (80 éoliennes  sur 78km²)";"480 MW";;"true";
+47.139183;-2.6003833;;;"Pays de la Loire";;;;"true";;;"true";;;;;"false";;;;;;;;;;175;;"Saint-Nazaire (80 éoliennes  sur 78km²)";"480 MW";;"true";
+47.15575;-2.6819334;;;"Pays de la Loire";;;;"true";;;"true";;;;;"false";;;;;;;;;;175;;"Saint-Nazaire (80 éoliennes  sur 78km²)";"480 MW";;"true";
+47.147533;-2.6414332;;;"Pays de la Loire";;;;"true";;;"true";;;;;"false";;;;;;;;;;175;;"Saint-Nazaire (80 éoliennes  sur 78km²)";"480 MW";;"true";
+47.127617;-2.53975;;;"Pays de la Loire";;;;"true";;;"true";;;;;"false";;;;;;;;;;175;;"Saint-Nazaire (80 éoliennes  sur 78km²)";"480 MW";;"true";
+47.15307;-2.6687167;;;"Pays de la Loire";;;;"true";;;"true";;;;;"false";;;;;;;;;;175;;"Saint-Nazaire (80 éoliennes  sur 78km²)";"480 MW";;"true";
+47.15835;-2.6947832;;;"Pays de la Loire";;;;"true";;;"true";;;;;"false";;;;;;;;;;175;;"Saint-Nazaire (80 éoliennes  sur 78km²)";"480 MW";;"true";
+47.13608;-2.58465;;;"Pays de la Loire";;;;"true";;;"true";;;;;"false";;;;;;;;;;175;;"Saint-Nazaire (80 éoliennes  sur 78km²)";"480 MW";;"true";
+47.162;-2.6597;;;"Pays de la Loire";;;;"true";;;"true";;;;;"false";;;;;;;;;;175;;"Saint-Nazaire (80 éoliennes  sur 78km²)";"480 MW";;"true";
+47.17875;-2.57125;;;"Pays de la Loire";;;;"true";;;"true";;;;;"false";;;;;;;;;;175;;"Saint-Nazaire (80 éoliennes  sur 78km²)";"480 MW";;"true";
+47.1855;-2.66395;;;"Pays de la Loire";;;;"true";;;"true";;;;;"false";;;;;;;;;;175;;"Saint-Nazaire (80 éoliennes  sur 78km²)";"480 MW";;"true";
+47.1546;-2.5389667;;;"Pays de la Loire";;;;"true";;;"true";;;;;"false";;;;;;;;;;175;;"Saint-Nazaire (80 éoliennes  sur 78km²)";"480 MW";;"true";
+47.139633;-2.5577667;;;"Pays de la Loire";;;;"true";;;"true";;;;;"false";;;;;;;;;;175;;"Saint-Nazaire (80 éoliennes  sur 78km²)";"480 MW";;"true";
+47.136967;-2.5435;;;"Pays de la Loire";;;;"true";;;"true";;;;;"false";;;;;;;;;;175;;"Saint-Nazaire (80 éoliennes  sur 78km²)";"480 MW";;"true";
+47.150734;-2.6109834;;;"Pays de la Loire";;;;"true";;;"true";;;;;"false";;;;;;;;;;175;;"Saint-Nazaire (80 éoliennes  sur 78km²)";"480 MW";;"true";
+47.169167;-2.6907;;;"Pays de la Loire";;;;"true";;;"true";;;;;"false";;;;;;;;;;175;;"Saint-Nazaire (80 éoliennes  sur 78km²)";"480 MW";;"true";
+47.158382;-2.6440501;;;"Pays de la Loire";;;;"true";;;"true";;;;;"false";;;;;;;;;;175;;"Saint-Nazaire (80 éoliennes  sur 78km²)";"480 MW";;"true";
+47.154682;-2.6280665;;;"Pays de la Loire";;;;"true";;;"true";;;;;"false";;;;;;;;;;175;;"Saint-Nazaire (80 éoliennes  sur 78km²)";"480 MW";;"true";
+47.165634;-2.6754;;;"Pays de la Loire";;;;"true";;;"true";;;;;"false";;;;;;;;;;175;;"Saint-Nazaire (80 éoliennes  sur 78km²)";"480 MW";;"true";
+47.146416;-2.59235;;;"Pays de la Loire";;;;"true";;;"true";;;;;"false";;;;;;;;;;175;;"Saint-Nazaire (80 éoliennes  sur 78km²)";"480 MW";;"true";
+47.14285;-2.5745;;;"Pays de la Loire";;;;"true";;;"true";;;;;"false";;;;;;;;;;175;;"Saint-Nazaire (80 éoliennes  sur 78km²)";"480 MW";;"true";
+47.13405;-2.5274835;;;"Pays de la Loire";;;;"true";;;"true";;;;;"false";;;;;;;;;;175;;"Saint-Nazaire (80 éoliennes  sur 78km²)";"480 MW";;"true";
+47.147266;-2.54835;;;"Pays de la Loire";;;;"true";;;"true";;;;;"false";;;;;;;;;;175;;"Saint-Nazaire (80 éoliennes  sur 78km²)";"480 MW";;"true";
+47.1443;-2.5317667;;;"Pays de la Loire";;;;"true";;;"true";;;;;"false";;;;;;;;;;175;;"Saint-Nazaire (80 éoliennes  sur 78km²)";"480 MW";;"true";
+47.1766;-2.6735668;;;"Pays de la Loire";;;;"true";;;"true";;;;;"false";;;;;;;;;;175;;"Saint-Nazaire (80 éoliennes  sur 78km²)";"480 MW";;"true";
+47.1695;-2.6454334;;;"Pays de la Loire";;;;"true";;;"true";;;;;"false";;;;;;;;;;175;;"Saint-Nazaire (80 éoliennes  sur 78km²)";"480 MW";;"true";
+47.161484;-2.6145833;;;"Pays de la Loire";;;;"true";;;"true";;;;;"false";;;;;;;;;;175;;"Saint-Nazaire (80 éoliennes  sur 78km²)";"480 MW";;"true";
+47.16555;-2.6304834;;;"Pays de la Loire";;;;"true";;;"true";;;;;"false";;;;;;;;;;175;;"Saint-Nazaire (80 éoliennes  sur 78km²)";"480 MW";;"true";
+47.180016;-2.6869166;;;"Pays de la Loire";;;;"true";;;"true";;;;;"false";;;;;;;;;;175;;"Saint-Nazaire (80 éoliennes  sur 78km²)";"480 MW";;"true";
+47.150166;-2.56455;;;"Pays de la Loire";;;;"true";;;"true";;;;;"false";;;;;;;;;;175;;"Saint-Nazaire (80 éoliennes  sur 78km²)";"480 MW";;"true";
+47.173035;-2.6596334;;;"Pays de la Loire";;;;"true";;;"true";;;;;"false";;;;;;;;;;175;;"Saint-Nazaire (80 éoliennes  sur 78km²)";"480 MW";;"true";
+47.141132;-2.5140166;;;"Pays de la Loire";;;;"true";;;"true";;;;;"false";;;;;;;;;;175;;"Saint-Nazaire (80 éoliennes  sur 78km²)";"480 MW";;"true";
+47.157185;-2.5978498;;;"Pays de la Loire";;;;"true";;;"true";;;;;"false";;;;;;;;;;175;;"Saint-Nazaire (80 éoliennes  sur 78km²)";"480 MW";;"true";
+47.153133;-2.58115;;;"Pays de la Loire";;;;"true";;;"true";;;;;"false";;;;;;;;;;175;;"Saint-Nazaire (80 éoliennes  sur 78km²)";"480 MW";;"true";
+47.170315;-2.5753832;;;"Pays de la Loire";;;;"true";;;"true";;;;;"false";;;;;;;;;;175;;"Saint-Nazaire (80 éoliennes  sur 78km²)";"480 MW";;"true";
+47.149834;-2.5124667;;;"Pays de la Loire";;;;"true";;;"true";;;;;"false";;;;;;;;;;175;;"Saint-Nazaire (80 éoliennes  sur 78km²)";"480 MW";;"true";
+47.1577;-2.50825;;;"Pays de la Loire";;;;"true";;;"true";;;;;"false";;;;;;;;;;175;;"Saint-Nazaire (80 éoliennes  sur 78km²)";"480 MW";;"true";
+47.1725;-2.54595;;;"Pays de la Loire";;;;"true";;;"true";;;;;"false";;;;;;;;;;175;;"Saint-Nazaire (80 éoliennes  sur 78km²)";"480 MW";;"true";
+47.1633;-2.5848;;;"Pays de la Loire";;;;"true";;;"true";;;;;"false";;;;;;;;;;175;;"Saint-Nazaire (80 éoliennes  sur 78km²)";"480 MW";;"true";
+47.17355;-2.6212;;;"Pays de la Loire";;;;"true";;;"true";;;;;"false";;;;;;;;;;175;;"Saint-Nazaire (80 éoliennes  sur 78km²)";"480 MW";;"true";
+47.176933;-2.63335;;;"Pays de la Loire";;;;"true";;;"true";;;;;"false";;;;;;;;;;175;;"Saint-Nazaire (80 éoliennes  sur 78km²)";"480 MW";;"true";
+47.170216;-2.60925;;;"Pays de la Loire";;;;"true";;;"true";;;;;"false";;;;;;;;;;175;;"Saint-Nazaire (80 éoliennes  sur 78km²)";"480 MW";;"true";
+47.20183;-2.6905499;;;"Pays de la Loire";;;;"true";;;"true";;;;;"false";;;;;;;;;;175;;"Saint-Nazaire (80 éoliennes  sur 78km²)";"480 MW";;"true";
+47.152065;-2.52485;;;"Pays de la Loire";;;;"true";;;"true";;;;;"false";;;;;;;;;;175;;"Saint-Nazaire (80 éoliennes  sur 78km²)";"480 MW";;"true";
+47.157417;-2.5546334;;;"Pays de la Loire";;;;"true";;;"true";;;;;"false";;;;;;;;;;175;;"Saint-Nazaire (80 éoliennes  sur 78km²)";"480 MW";;"true";
+47.208817;-2.6603668;;;"Pays de la Loire";;;;"true";;;"true";;;;;"false";;;;;;;;;;175;;"Saint-Nazaire (80 éoliennes  sur 78km²)";"480 MW";;"true";
+47.19225;-2.6880667;;;"Pays de la Loire";;;;"true";;;"true";;;;;"false";;;;;;;;;;175;;"Saint-Nazaire (80 éoliennes  sur 78km²)";"480 MW";;"true";
+47.195267;-2.6641;;;"Pays de la Loire";;;;"true";;;"true";;;;;"false";;;;;;;;;;175;;"Saint-Nazaire (80 éoliennes  sur 78km²)";"480 MW";;"true";
+47.1666;-2.5597334;;;"Pays de la Loire";;;;"true";;;"true";;;;;"false";;;;;;;;;;175;;"Saint-Nazaire (80 éoliennes  sur 78km²)";"480 MW";;"true";
+47.1757;-2.5588999;;;"Pays de la Loire";;;;"true";;;"true";;;;;"false";;;;;;;;;;175;;"Saint-Nazaire (80 éoliennes  sur 78km²)";"480 MW";;"true";
+47.148582;-2.4998;;;"Pays de la Loire";;;;"true";;;"true";;;;;"false";;;;;;;;;;175;;"Saint-Nazaire (80 éoliennes  sur 78km²)";"480 MW";;"true";
+47.16025;-2.57035;;;"Pays de la Loire";;;;"true";;;"true";;;;;"false";;;;;;;;;;175;;"Saint-Nazaire (80 éoliennes  sur 78km²)";"480 MW";;"true";
+47.16688;-2.5972834;;;"Pays de la Loire";;;;"true";;;"true";;;;;"false";;;;;;;;;;175;;"Saint-Nazaire (80 éoliennes  sur 78km²)";"480 MW";;"true";
+47.1842;-2.6408;;;"Pays de la Loire";;;;"true";;;"true";;;;;"false";;;;;;;;;;175;;"Saint-Nazaire (80 éoliennes  sur 78km²)";"480 MW";;"true";
+47.20093;-2.6540833;;;"Pays de la Loire";;;;"true";;;"true";;;;;"false";;;;;;;;;;175;;"Saint-Nazaire (80 éoliennes  sur 78km²)";"480 MW";;"true";
+47.16495;-2.5154166;;;"Pays de la Loire";;;;"true";;;"true";;;;;"false";;;;;;;;;;175;;"Saint-Nazaire (80 éoliennes  sur 78km²)";"480 MW";;"true";
+47.192665;-2.6475334;;;"Pays de la Loire";;;;"true";;;"true";;;;;"false";;;;;;;;;;175;;"Saint-Nazaire (80 éoliennes  sur 78km²)";"480 MW";;"true";
+47.182266;-2.6523666;;;"Pays de la Loire";;;;"true";;;"true";;;;;"false";;;;;;;;;;175;;"Saint-Nazaire (80 éoliennes  sur 78km²)";"480 MW";;"true";
+47.205967;-2.6727333;;;"Pays de la Loire";;;;"true";;;"true";;;;;"false";;;;;;;;;;175;;"Saint-Nazaire (80 éoliennes  sur 78km²)";"480 MW";;"true";
+47.188866;-2.6759667;;;"Pays de la Loire";;;;"true";;;"true";;;;;"false";;;;;;;;;;175;;"Saint-Nazaire (80 éoliennes  sur 78km²)";"480 MW";;"true";
+47.19835;-2.6779;;;"Pays de la Loire";;;;"true";;;"true";;;;;"false";;;;;;;;;;175;;"Saint-Nazaire (80 éoliennes  sur 78km²)";"480 MW";;"true";
+47.163467;-2.5438166;;;"Pays de la Loire";;;;"true";;;"true";;;;;"false";;;;;;;;;;175;;"Saint-Nazaire (80 éoliennes  sur 78km²)";"480 MW";;"true";
+47.16905;-2.5320334;;;"Pays de la Loire";;;;"true";;;"true";;;;;"false";;;;;;;;;;175;;"Saint-Nazaire (80 éoliennes  sur 78km²)";"480 MW";;"true";
+47.160866;-2.5273;;;"Pays de la Loire";;;;"true";;;"true";;;;;"false";;;;;;;;;;175;;"Saint-Nazaire (80 éoliennes  sur 78km²)";"480 MW";;"true";
