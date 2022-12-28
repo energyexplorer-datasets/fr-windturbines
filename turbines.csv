@@ -1,0 +1,4 @@
+"latitude","longitude","commune","departement","region","presente","instruction_en_cours","instruit","autorise","refuse","abandonne","en_construction","construit","repower","recours","demoli","en_service","date_presentation","date_decision","date_depot","date_realisation","date_mise_en_service","date_repower","date_recours","date_demolition","modele","hauteur","puissance","id_parc","puissance_parc","nb_mats_parc","offshore","note","source"
+48.49698772,-4.737621,,,"Bretagne",,,,"true",,,,,,,,"false",,"2022-07-28",,,,,,,,120,3,"Parc éolien de PORSPODER",,,"false",,"APA 28 7 22"
+48.496209,-4.73426,,,"Bretagne",,,,"true",,,,,,,,"false",,"2022-07-28",,,,,,,,120,3,"Parc éolien de PORSPODER",,,"false",,"APA 28 7 22"
+48.494441,-4.73255,,,"Bretagne",,,,"true",,,,,,,,"false",,"2022-07-28",,,,,,,,120,3,"Parc éolien de PORSPODER",,,"false",,"APA 28 7 22"
